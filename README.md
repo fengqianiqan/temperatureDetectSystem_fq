@@ -10,7 +10,7 @@
 
   - 不要把任何包和文件“fix”到”Artifacts“里面，在class文件中反应的目录应该如下
 
-    <img src="C:\Users\fengqian\AppData\Roaming\Typora\typora-user-images\image-20231222081043441.png" alt="image-20231222081043441" style="zoom:50%;" />
+    <img src="http://fqtypora-test.oss-cn-chengdu.aliyuncs.com/fqtypora-testimage-20231222081043441.png" alt="image-20231222081043441" style="zoom:50%;" />
 
 - 如果出现setCharacterEncoding等报红错误，说明没有导入Library，导入Tomcat7和8的bin和lib，教程参考[setCharacterEncoding等报红错误](https://blog.csdn.net/weixin_55134726/article/details/123867053)
 
@@ -29,5 +29,7 @@
 - 最后同时运行Tomcat7和ContinueRead，即可实现传感器接收的数据存储在mysql数据库，前端网页实现从mysql数据库每秒提取一次数据，刷新后显示在网页
 
 - Navicat建表说明：<img src="http://fqtypora-test.oss-cn-chengdu.aliyuncs.com/fqtypora-testimage-20231221220310534.png" alt="image-20231221220310534" style="zoom: 67%;" />
+
+  
 
   
