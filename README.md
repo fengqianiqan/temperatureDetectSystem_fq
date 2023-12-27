@@ -2,7 +2,7 @@
 
 - [如何在JAVA工程中导入web文件](https://blog.csdn.net/yuyunbai0917/article/details/122823288)
 
-- 太久没运行发现没有run选项，配置Tomcat7，（要导入Tomcat8的库才行）,java要用1.8版本(自行下载)
+- 太久没运行发现没有run选项，配置Tomcat7,导入足够的库文件
 
   - [配置Artifcts参考网址](https://blog.csdn.net/weixin_45965432/article/details/111316470)
 
